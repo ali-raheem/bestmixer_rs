@@ -1,0 +1,7 @@
+[package]
+name = "bestmixer_rs"
+version = "0.1.0"
+authors = ["Ali Raheem <ali@hadoken.cc>"]
+
+[dependencies]
+reqwest = "*"
